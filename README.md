@@ -1,7 +1,7 @@
 # HtH_Team
 
 Zena Wu 
-I have leanred how to manipulate files and collaborate with others through Github.
+I have learned how to manipulate files and collaborate with others through Github.
 
 Anthony Vuong
 I've learned github is a very flexible tool and is able to connect to many applications worldwide and connect multiple people to the point that people can be coding simultaneously
