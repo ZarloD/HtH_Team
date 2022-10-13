@@ -1,3 +1,4 @@
+
 # HtH_Team
 
 Zena Wu 
@@ -15,4 +16,7 @@ So far, I have learned how to export files onto Github and work on a collaborati
 
 Zarlo Diaz
 I learned how to create a repository
+
+Angela Jones
+I learned how to make a repository in GitHub
 
